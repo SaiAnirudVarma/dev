@@ -1,3 +1,9 @@
+# My Dev Repo
+
+![CI](https://github.com/SaiAnirudVarma/dev/actions/workflows/ci.yml/badge.svg)
+
+This project is a demo for testing GitHub Actions...
+
 # What is this?
 
 The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
